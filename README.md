@@ -18,7 +18,6 @@
 <a href="https://linkedin.com/in/anshul gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anshul gupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anshul_03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshul_03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshul031999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anshul031999" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anshul031999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="anshul031999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
